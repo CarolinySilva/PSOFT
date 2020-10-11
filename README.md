@@ -9,6 +9,6 @@ Laboratórios da disciplina de Projeto de Software
 		*Classe preguiçosa em Cliente.
 
 
-### SOLUÇÕES TOMADAS:
+### SOLUÇÕES:
 
 		* A responsividade de chegagem de gerente foi removida e adicionada em Projeto, fazendo com que o gerente apenas faça a solicitação.
