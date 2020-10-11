@@ -11,4 +11,4 @@ Laboratórios da disciplina de Projeto de Software
 
 ### SOLUÇÕES:
 
-		* A responsividade de chegagem de gerente foi removida e adicionada em Projeto, fazendo com que o gerente apenas faça a solicitação.
+		* A responsividade de checagem de gerente foi removida e adicionada em Projeto, fazendo com que o gerente apenas faça a solicitação.
